@@ -8,9 +8,9 @@ C:\Source\DotNet.RaspberryPi.App2>dotnet ef --version
 Entity Framework Core .NET Command-line Tools
 2.1.2-rtm-30932
 
-Run:
+# Run:
 dotnet run
 
-Entity Framework:
+# Entity Framework:
 dotnet ef migrations add InitialCreate
 dotnet ef database update
